@@ -1079,6 +1079,18 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
+"@juan-utils/functions@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@juan-utils/functions/-/functions-2.4.0.tgz#be7f9879e727e2acf75bf00ef52f9c9797f2d928"
+  integrity sha512-PFQgOb5CbI4oNn6d9i2fpoLmHo6JMK3dkh61ASQ+YsY6YhjOs6CZRNqOjTnAuWujH7iuAeqjHA0KNC01Ik54pg==
+
+"@juan-utils/structures@^2.4.1":
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/@juan-utils/structures/-/structures-2.4.1.tgz#a3f4a359b4b27d67dba8f1ebb36bbe7b1fe828e3"
+  integrity sha512-w9xvEaxFGwk4JJomwDNJIWBzw75flNYLEtyvg2fTlDKf1x0IFL5nfmYpPFpMjxLY3cIQ5UAIehtwpbCa6t6/Gw==
+  dependencies:
+    "@juan-utils/functions" "^2.4.0"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
